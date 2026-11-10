@@ -1,8 +1,6 @@
-<img src="banner.jpg" width="100%" alt="UC Berkeley Campanile" />
+<img src="matrix-banner.svg" width="100%" alt="Falling green code banner" />
 
 <div align="center">
-
-# Hi, I'm Aydan Gonzalez👋
 
 <a href="https://aydangonzalez.com"><img src="https://img.shields.io/badge/Website-aydangonzalez.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://linkedin.com/in/aydan-gonzalez-5a123934b"><img src="https://img.shields.io/badge/LinkedIn-Aydan_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
