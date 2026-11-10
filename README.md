@@ -37,7 +37,7 @@ Before Berkeley, I tutored math at mathnasium and I really enjoyed working with 
 
 ---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AydanEddieGonzalez&show_icons=true&hide_border=true&theme=github_dark&count_private=true&disable_animations=true" alt="GitHub stats" />
+<img width="480" src="metrics.base.svg" alt="GitHub stats" />
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ Before Berkeley, I tutored math at mathnasium and I really enjoyed working with 
       <img width="480" src="metrics.plugin.isocalendar.fullyear.svg" alt="Contribution calendar" />
     </td>
     <td valign="top">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AydanEddieGonzalez&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&disable_animations=true" alt="Top languages" />
+      <img width="300" src="metrics.plugin.languages.svg" alt="Top languages" />
       <br/><br/>
       <b>Tech stack</b>
       <br/><br/>
