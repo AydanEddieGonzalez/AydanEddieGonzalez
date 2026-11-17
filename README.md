@@ -29,7 +29,7 @@ Before Berkeley, I tutored math at mathnasium and I really enjoyed working with 
       Model routing and token allocation for a platform that sends unused AI-token capacity from donors to nonprofits (Berkeley Data Discovery).
     </td>
     <td width="33%" valign="top">
-      <h3>Sustainability Metrics & Impact Associate<br/>@ PhysaFlow</h3>
+      <h3>Sustainability Metrics & Impact Associate @ PhysaFlow</h3>
       Building the climate impact model for a bio-inspired agentic AI platform that unlocks unused compute in existing data centers, measuring the energy, carbon, and water it saves.
     </td>
   </tr>
